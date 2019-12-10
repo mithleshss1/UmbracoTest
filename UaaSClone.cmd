@@ -1,0 +1,1 @@
+git clone https://dev-cloud-mithlesh-sumedhasoftech-com.scm.s1.umbraco.io/28fb67d4-173c-4974-86ca-247cdf9540c7.git MyCloudSite.Web
